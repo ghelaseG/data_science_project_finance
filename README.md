@@ -8,7 +8,7 @@
   - combine all the tickers into one large dataframe.
   
 * Organise and investigate the data using data visualization (data analysing):
-  - Exploratory Data Analysis starting with simple methods such as generating descriptive statistics, find the correlation between tickers, check for the max value or min value throughout the perioud selected.
+  - Exploratory Data Analysis starting with simple methods such as generating descriptive statistics, find the correlation between tickers, check for the max value or min value throughout the period selected.
   - check the standard deviation of the return to find out the riskiest stock.
   - create interactive dashboard with panel for the ftse100 tickers adj close values and daily returns values.
   - create a heatmap for all the Tickers from ftse 100 daily return.
