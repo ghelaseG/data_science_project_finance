@@ -22,5 +22,7 @@
 
 ### Code and Packages
 **Python Version** 3.9.12
+
 **Packages** pandas, numpy, bs4, matplotlib, cufflinks, hvplot, panel, prophet, requests, seaborn, session_info, sklearn, yfinance
-**Libraries version** ##### Please open the requirements.txt file
+
+**Libraries version** Please open the requirements.txt file
