@@ -4,7 +4,6 @@
 * Extract and convert raw data into usable data (data engineer):
   - scrape the web and get the table that contains 100 companies listed on the London Stock Exchange with the highest market capitalisation in the index share Footsie 100.
   - removing unneeded columns and create a logarithmic daily return column for every ticker.
-  - delete the unneded columns for each ticker and create a daily return column
   - combine all the tickers into one large dataframe.
   
 * Organise and investigate the data using data visualization (data analysing):
