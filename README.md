@@ -1,5 +1,8 @@
-## Data Science Finance FTSE 100: Project Overview
+## Data Science Finance FTSE 100: Project Overview  
 
+* For a full understanding please use this link from my portfolio website: https://georgeghelase.com/personal-data-science-project-ftse-100/
+
+### Short summary:
 
 * Extract and convert raw data into usable data (data engineer):
   - scrape the web and get the table that contains 100 companies listed on the London Stock Exchange with the highest market capitalisation in the index share Footsie 100.
